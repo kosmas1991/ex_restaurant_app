@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # restaurant_app
 
 A new Flutter project.
